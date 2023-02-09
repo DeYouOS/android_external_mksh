@@ -150,6 +150,7 @@ cc_binary {
             ],
         },
     },
+    symlinks: ["sh++"],
 }
 
 cc_binary {
